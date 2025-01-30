@@ -1,4 +1,0 @@
-CCID: tmyang
-GitHub Username: tony-m-yang
-Repo URL: https://github.com/michaeltran14/bytebandits-lab4
-Branch URL: https://github.com/michaeltran14/bytebandits-lab4/tree/tony
